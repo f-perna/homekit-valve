@@ -2,7 +2,7 @@
 This is still heavily under development, any help is greatly appriciated
 
 ## Overview
-This is a custom componnet for home assistant adds valve timer support to the core omponent `homekit`
+This is a custom componnet for home assistant that adds valve timer support to the core omponent `homekit`
 
 ## Progress
 - Support for a single valve switch
