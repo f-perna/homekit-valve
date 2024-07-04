@@ -29,3 +29,5 @@ homekit:
 
 ## Screenshots
 ![0](https://github.com/f-perna/homekit-valve/assets/113391793/90f75162-4c01-4db2-8804-951e4151969d)
+![1](https://github.com/f-perna/homekit-valve/assets/113391793/5997c7a1-3123-43ac-a22f-28ca803333d1)
+
